@@ -201,7 +201,6 @@ A single Laravel REST API sits at the center, serving two mobile apps (customer,
 
 `Laravel` (backend) · `MySQL` (database) · `React.js` (admin/accounting web) · `Flutter` (customer & driver apps) · `WebSocket` (live tracking) · `Firebase Cloud Messaging` (push notifications) · `Laravel Sanctum` (mobile API auth)
 
----
 
 ## 11. Key Skills Demonstrated
 
@@ -214,22 +213,21 @@ A single Laravel REST API sits at the center, serving two mobile apps (customer,
 - Agile Methodology
 - Team Collaboration
 
----
+
 
 ## Disclaimer
 
 This repository is intended for portfolio purposes only. It contains a case study describing my contributions during my internship. Proprietary source code, confidential business information, and company assets are not included.
 
----
+
 
 ## Contact
 
 **Mansi Marathe**
 
-- LinkedIn: (your LinkedIn URL)
+- LinkedIn: www.linkedin.com/in/mansi-marathe
 - Portfolio: [mansimarathe.framer.website](https://mansimarathe.framer.website/)
-- Email: (your email)
+- Email: mansimarathe2003@gmail.com
 
----
 
-*This case study was written as a portfolio piece to demonstrate business analysis thinking — problem framing, stakeholder mapping, requirements analysis, and process design — applied to a real project I contributed to as a developer.*
+
